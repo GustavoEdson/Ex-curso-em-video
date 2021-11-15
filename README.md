@@ -1,3 +1,3 @@
 # Ex-curso-em-video
-exercícios do curso em video (em progresso)
-
+exercícios do curso em video de Python
+(em progresso)
