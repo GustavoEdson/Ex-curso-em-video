@@ -12,5 +12,5 @@ while True:
         mais_caro += 1
     if pergunta == 'N':
         print(f'O total da compra foi {soma}')
-        print(f'Temos {mais_caro} podutos custando mais de 1000 reias.')
+        print(f'Temos {mais_caro} podutos custando mais de 1000 reais.')
         break
